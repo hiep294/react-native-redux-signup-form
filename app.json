@@ -1,0 +1,7 @@
+{
+  "name": "image_editor_app",
+  "displayName": "image_editor_app",
+  "androidStatusBar": {
+    "backgroundColor": "#000000"
+  }
+}
